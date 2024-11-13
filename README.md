@@ -26,4 +26,7 @@ To run this application, you'll need:
 
 ```bash
 git clone https://github.com/mariannapsyllou/Dota2-classification.git
+### Step 2: Run the application locally
+
+```bash
 streamlit run app.py
