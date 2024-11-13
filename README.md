@@ -25,6 +25,5 @@ To run this application, you'll need:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/hero-team-prediction.git
-cd hero-team-prediction
+git clone https://github.com/mariannapsyllou/Dota2-classification.git
 streamlit run app.py
